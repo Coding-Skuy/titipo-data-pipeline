@@ -1,8 +1,10 @@
 # 40-TECHSTACK — titipo-data-pipeline
 
-STATUS: defined pending — STUB_UNTIL event produksi pertama disetujui TownHall.
+> Versi: v1.0.0 | Status: disetujui | Menggantikan: -
+> Acuan: [TitipO-TownHall platform/versions/v1.0.0](https://github.com/Coding-Skuy/TitipO-TownHall/tree/main/platform/versions/v1.0.0) (BRD/PRD/FRD/FSD/SRS beku 2026-10-07).
 
-Mengacu: TitipO-TownHall v1.0.0
+STATUS: STUB_UNTIL event produksi pertama disetujui TownHall.
+
 
 ## 1. Target stack
 
